@@ -1,0 +1,316 @@
+sinh_viên N Nt
+phải V Vm
+đeo V Vt
+thẻ N Nt
+sinh_viên N Nt
+khi N Na
+đến V Vt
+trường N Nt
+
+thủ_tướng N Nt
+Anh N Np
+xin_lỗi V Vt
+vì C
+phạm V Vs
+sai_lầm N Na
+
+tôi P Pp
+cần V Vm
+một M Mc
+cái N Nc
+chìa_khóa N Nt
+khác A Ar
+
+không R
+phải A Ap
+ai P Pd
+cũng R
+biết V Vs
+nấu_ăn V Vi
+
+tôi P Pp
+là V Vs
+người N Nc
+Việt_Nam N Np
+
+vì C
+bị V Vm
+ốm V Vs
+nên C
+em N Nt
+không_thể X
+tới V Vt
+lớp N Na
+
+bạn N Nt
+Nga N Np
+cố_gắng V Vs
+học_tập V Vs
+tốt A Ap
+để C
+bố_mẹ Ng
+luôn R
+vui_lòng A Ap
+
+nó P Pd
+không R
+làm V Vs
+bài_tập N Nt
+về_nhà X
+
+trẻ_em N Nt
+đi V Vt
+chăn V Vt
+trâu N Nt
+
+cậu N Nt
+làm V Vs
+bài N Nt
+chưa R
+
+Chí_Phèo N Np
+là V Vs
+một M
+kiệt_tác N Na
+trong N Nl
+văn_xuôi N Na
+Việt_Nam N Np
+hiện_đại A Ap
+
+chuyện N Na
+ông N Nc
+chuyển V Vs
+sang V Vu
+làm V Vs
+đạo_diễn N Nt
+cũng R
+rất R
+tình_cờ A Ap
+
+sau N Na
+vài D
+năm N Nu
+tự P Pp
+mày_mò V Vs
+học_hỏi V Vs
+ông N Nc
+quyết_định V Vt
+làm V Vs
+bộ N Nc
+phim N Nt
+của E
+mình P Pp
+
+sinh_viên N Nt
+cần V Vm
+những D
+gì P Pi
+để C
+bắt_đầu V Vs
+đi V Vt
+làm V Vs
+
+cái_nết N Na
+đánh V Vt
+chết V Vs
+cái_đẹp N Na
+
+có V Vs
+nhiều A Ap
+người N Nc
+luôn R
+đánh_giá V Vt
+người N Nc
+khác A Ar
+chỉ R
+qua E
+bề_ngoài N Na
+
+đó P Pd
+là C
+một M
+trò_chơi N Na
+cực_kì R
+vui_nhộn A Ap
+
+Nhà N Na
+bà N Nt
+ngoại A Ar
+mình P Pp
+còn V Vs
+cả I
+bộ N Nc
+
+Các D
+ứng_viên N Nt
+cần V Vm
+đáp_ứng V Vu
+tiêu_chuẩn N Na
+chung A Ar
+và C
+cụ_thể A Ap
+cho E
+mỗi D
+lĩnh_vực N Na
+
+mọi D
+thắc_mắc V Vt
+xin V Vu
+liên_hệ V Vt
+fanpage X
+để C
+được V Vm
+giải_đáp V Vt
+
+chúc V vt
+các D
+bạn N Nu
+thí_sinh N Nt
+may_mắn A Ap
+
+cảm_ơn V Vt
+mọi D
+người N Nc
+đã R
+lắng_nghe V Vs
+
+ông N Nc
+đã R
+rất R
+tức_giận V Vs
+
+phụ_nữ N Na
+xứng_đáng A Ap
+được V Vs
+nâng_niu V Vt
+và C
+trân_trọng V Vt
+
+có V Vs
+vẻ N Na
+như C
+Apple N Np
+cũng R
+đang R
+có V Vs
+kế_hoạch N Na
+làm V Vt
+điều N Nc
+tương_tự A Ap
+
+Bác N Nt
+thường R
+ra V Vt
+cầu_ao N Nt
+để C
+gọi V Vt
+cá N Nt
+cho V Vt
+ăn V Vt
+
+họ P Pp
+thông_báo V Vt
+rằng C
+sắp R
+có V Vs
+bão N Nt
+ập V Vu
+đến V Vt
+
+đọc V Vt
+kỹ A Ap
+hướng_dẫn N Na
+trước C
+khi N Na
+sử_dụng V Vt
+
+cách N Na
+chào_hỏi V Vt
+của E
+người N Nc
+Việt N Np
+và C
+phương_Tây N Na
+có V Vs
+nhiều A Ap
+điểm N Na
+khác_biệt A Ap
+
+anh N Nc
+hiện N Na
+đang R
+làm V Vs
+nghề N Na
+gì P Pi
+vậy I
+
+tôi P Pp
+mới R
+thấy V Vt
+cậu N Nt
+ấy P Pd
+ngày N Nu
+hôm_qua N Nu
+
+xin V Vu
+chúc_mừng V Vt
+anh N Nt
+chị N Nt
+
+bản N Nc
+báo_cáo N Nt
+cậu N Nt
+làm V Vt
+đến E
+đâu P Pd
+rồi I
+
+vị N Na
+món_ăn N Nc
+này P Pd
+như C
+xà_phòng N Nt
+vậy I
+
+Agribank N Np
+là V Vs
+ngân_hàng N Na
+thương_mại N Na
+lớn A Ap
+nhất R
+Việt_Nam N Np
+
+thông_tin N Na
+chỉ R
+mang V Vs
+tính_chất N Na
+tham_khảo V Vt
+
+chị N Nc
+đã R
+ăn V Vt
+gì P Pi
+chưa R
+
+tôi P Pp
+muốn V Vm
+tặng V Vt
+cậu N Nt
+một M Mc
+món N Nc
+quà N Na
+
+rất R
+vui A Ap
+được V Vt
+gặp V Vt
+anh N Nc
+
+các D
+bạn N Nt
+học_sinh N Nt
+được V Vt
+dẫn V Vt
+đi V Vt
+tham_quan V Vt
+bảo_tàng N Nt
