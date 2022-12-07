@@ -133,7 +133,7 @@ trò_chơi N Na
 cực_kì R
 vui_nhộn A Ap
 
-Nhà N Na
+nhà N Na
 bà N Nt
 ngoại A Ar
 mình P Pp
@@ -314,3 +314,4 @@ dẫn V Vt
 đi V Vt
 tham_quan V Vt
 bảo_tàng N Nt
+

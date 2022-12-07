@@ -1,0 +1,84 @@
+-S- S
+nó P
+không R
+làm V
+bài_tập N
+về_nhà X
+
+-S- S
+thủ_tướng N
+Anh N
+xin_lỗi V
+vì C
+phạm V
+sai_lầm N
+
+-S- S
+mọi D
+thắc_mắc V
+xin V
+liên_hệ V
+fanpage X
+để C
+được V
+giải_đáp V
+
+-S- S
+nhà N
+bà N
+ngoại A
+mình P
+còn V
+cả I
+bộ N
+
+-S- S
+đó P
+là C
+một M
+trò_chơi N
+cực_kì R
+vui_nhộn A
+
+-S- S
+Chí_Phèo N
+là V
+một M
+kiệt_tác N
+trong N
+văn_xuôi N
+Việt_Nam N
+hiện_đại A
+
+-S- S
+trẻ_em N
+đi V
+chăn V
+trâu N
+
+-S- S
+bạn N
+Nga N
+cố_gắng V
+học_tập V
+tốt A
+để C
+bố_mẹ Ng
+luôn R
+vui_lòng A
+
+-S- S
+thông_tin N
+chỉ R
+mang V
+tính_chất N
+tham_khảo V
+
+-S- S
+tôi P
+cần V
+một M
+cái N
+chìa_khóa N
+khác A
+
