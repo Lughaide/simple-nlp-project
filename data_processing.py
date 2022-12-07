@@ -17,13 +17,13 @@ def make_dataset(sentences, filename, tagged = True):
 with open("Dataset_processed.txt", "r", encoding="utf-8") as f:
     dataset = f.readlines()
 
-# Create sentences with starting states
+# Create sentences
 sentence_list = []
-sentence = ["-S-/S"]
+sentence = []
 for word in dataset:
     if word == "\n":
         sentence_list.append(sentence)
-        sentence = ["-S-/S"]
+        sentence = []
     else:
         sentence.append(f"{word.split()[0]}/{word.split()[1]}")
 

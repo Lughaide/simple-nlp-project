@@ -1,11 +1,9 @@
--S-
 nó
 không
 làm
 bài_tập
 về_nhà
 
--S-
 thủ_tướng
 Anh
 xin_lỗi
@@ -13,7 +11,6 @@ vì
 phạm
 sai_lầm
 
--S-
 mọi
 thắc_mắc
 xin
@@ -23,7 +20,6 @@ fanpage
 được
 giải_đáp
 
--S-
 nhà
 bà
 ngoại
@@ -32,7 +28,6 @@ còn
 cả
 bộ
 
--S-
 đó
 là
 một
@@ -40,7 +35,6 @@ trò_chơi
 cực_kì
 vui_nhộn
 
--S-
 Chí_Phèo
 là
 một
@@ -50,13 +44,11 @@ văn_xuôi
 Việt_Nam
 hiện_đại
 
--S-
 trẻ_em
 đi
 chăn
 trâu
 
--S-
 bạn
 Nga
 cố_gắng
@@ -67,14 +59,12 @@ bố_mẹ
 luôn
 vui_lòng
 
--S-
 thông_tin
 chỉ
 mang
 tính_chất
 tham_khảo
 
--S-
 tôi
 cần
 một

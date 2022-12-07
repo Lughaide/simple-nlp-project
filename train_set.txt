@@ -1,4 +1,3 @@
--S- S
 sinh_viên N
 phải V
 đeo V
@@ -8,7 +7,6 @@ khi N
 đến V
 trường N
 
--S- S
 không R
 phải A
 ai P
@@ -16,13 +14,11 @@ cũng R
 biết V
 nấu_ăn V
 
--S- S
 tôi P
 là V
 người N
 Việt_Nam N
 
--S- S
 vì C
 bị V
 ốm V
@@ -32,13 +28,11 @@ không_thể X
 tới V
 lớp N
 
--S- S
 cậu N
 làm V
 bài N
 chưa R
 
--S- S
 chuyện N
 ông N
 chuyển V
@@ -49,7 +43,6 @@ cũng R
 rất R
 tình_cờ A
 
--S- S
 sau N
 vài D
 năm N
@@ -64,7 +57,6 @@ phim N
 của E
 mình P
 
--S- S
 sinh_viên N
 cần V
 những D
@@ -74,13 +66,11 @@ bắt_đầu V
 đi V
 làm V
 
--S- S
 cái_nết N
 đánh V
 chết V
 cái_đẹp N
 
--S- S
 có V
 nhiều A
 người N
@@ -92,7 +82,6 @@ chỉ R
 qua E
 bề_ngoài N
 
--S- S
 các D
 ứng_viên N
 cần V
@@ -105,27 +94,23 @@ cho E
 mỗi D
 lĩnh_vực N
 
--S- S
 chúc V
 các D
 bạn N
 thí_sinh N
 may_mắn A
 
--S- S
 cảm_ơn V
 mọi D
 người N
 đã R
 lắng_nghe V
 
--S- S
 ông N
 đã R
 rất R
 tức_giận V
 
--S- S
 phụ_nữ N
 xứng_đáng A
 được V
@@ -133,7 +118,6 @@ nâng_niu V
 và C
 trân_trọng V
 
--S- S
 có V
 vẻ N
 như C
@@ -146,7 +130,6 @@ làm V
 điều N
 tương_tự A
 
--S- S
 Bác N
 thường R
 ra V
@@ -157,7 +140,6 @@ cá N
 cho V
 ăn V
 
--S- S
 họ P
 thông_báo V
 rằng C
@@ -167,7 +149,6 @@ bão N
 ập V
 đến V
 
--S- S
 đọc V
 kỹ A
 hướng_dẫn N
@@ -175,7 +156,6 @@ trước C
 khi N
 sử_dụng V
 
--S- S
 cách N
 chào_hỏi V
 của E
@@ -188,7 +168,6 @@ nhiều A
 điểm N
 khác_biệt A
 
--S- S
 anh N
 hiện N
 đang R
@@ -197,7 +176,6 @@ nghề N
 gì P
 vậy I
 
--S- S
 tôi P
 mới R
 thấy V
@@ -206,13 +184,11 @@ cậu N
 ngày N
 hôm_qua N
 
--S- S
 xin V
 chúc_mừng V
 anh N
 chị N
 
--S- S
 bản N
 báo_cáo N
 cậu N
@@ -221,7 +197,6 @@ làm V
 đâu P
 rồi I
 
--S- S
 vị N
 món_ăn N
 này P
@@ -229,7 +204,6 @@ như C
 xà_phòng N
 vậy I
 
--S- S
 Agribank N
 là V
 ngân_hàng N
@@ -238,14 +212,12 @@ lớn A
 nhất R
 Việt_Nam N
 
--S- S
 chị N
 đã R
 ăn V
 gì P
 chưa R
 
--S- S
 tôi P
 muốn V
 tặng V
@@ -254,14 +226,12 @@ một M
 món N
 quà N
 
--S- S
 rất R
 vui A
 được V
 gặp V
 anh N
 
--S- S
 các D
 bạn N
 học_sinh N
