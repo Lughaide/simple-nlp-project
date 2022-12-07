@@ -7,6 +7,20 @@ khi N
 đến V
 trường N
 
+thủ_tướng N
+Anh N
+xin_lỗi V
+vì C
+phạm V
+sai_lầm N
+
+tôi P
+cần V
+một M
+cái N
+chìa_khóa N
+khác A
+
 không R
 phải A
 ai P
@@ -28,10 +42,40 @@ không_thể X
 tới V
 lớp N
 
+bạn N
+Nga N
+cố_gắng V
+học_tập V
+tốt A
+để C
+bố_mẹ Ng
+luôn R
+vui_lòng A
+
+nó P
+không R
+làm V
+bài_tập N
+về_nhà X
+
+trẻ_em N
+đi V
+chăn V
+trâu N
+
 cậu N
 làm V
 bài N
 chưa R
+
+Chí_Phèo N
+là V
+một M
+kiệt_tác N
+trong N
+văn_xuôi N
+Việt_Nam N
+hiện_đại A
 
 chuyện N
 ông N
@@ -82,6 +126,21 @@ chỉ R
 qua E
 bề_ngoài N
 
+đó P
+là C
+một M
+trò_chơi N
+cực_kì R
+vui_nhộn A
+
+nhà N
+bà N
+ngoại A
+mình P
+còn V
+cả I
+bộ N
+
 các D
 ứng_viên N
 cần V
@@ -93,6 +152,15 @@ cụ_thể A
 cho E
 mỗi D
 lĩnh_vực N
+
+mọi D
+thắc_mắc V
+xin V
+liên_hệ V
+fanpage X
+để C
+được V
+giải_đáp V
 
 chúc V
 các D
@@ -211,6 +279,12 @@ thương_mại N
 lớn A
 nhất R
 Việt_Nam N
+
+thông_tin N
+chỉ R
+mang V
+tính_chất N
+tham_khảo V
 
 chị N
 đã R

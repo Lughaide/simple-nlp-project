@@ -34,3 +34,10 @@ with open("test_words.txt", "r") as f:
     temp = f.readlines()
 
 print(Counter(temp))
+
+# TODO:
+# - Finish HMM Viterbi
+# - Implement Brill Tagger
+# - Compare with VNcoreNLP
+# - Make presentations
+# NOTE
