@@ -141,7 +141,7 @@ còn V Vs
 cả I
 bộ N Nc
 
-Các D
+các D
 ứng_viên N Nt
 cần V Vm
 đáp_ứng V Vu
