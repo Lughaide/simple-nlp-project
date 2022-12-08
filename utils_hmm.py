@@ -1,4 +1,6 @@
-from utils import *
+__all__ = ["create_emission_matrix", "create_transition_matrix", "initialize", "viterbi_forward", "viterbi_backward"]
+
+from utils import np, remove_val_from_list
 
 def create_transition_matrix(alpha, transition_counts, tag_counts):
     all_tags = sorted(tag_counts.keys())
@@ -36,6 +38,18 @@ def create_emission_matrix(alpha, emission_counts, tag_counts, vocab):
             count_tag = tag_counts.get(all_tags[i])
             B[i, j] = (count + alpha) / (count_tag + alpha * num_words)
     return B
+
+def initialize(states, tag_counts, A, B, corpus, vocab):
+    num_tags = len(tag_counts) - 1
+    
+    best_probs = np.zeros((num_tags, len(corpus)))
+    best_paths = np.zeros((num_tags, len(corpus)), dtype=np.int32)
+
+    s_idx = states.index('-S-')
+    for i in range(num_tags):
+        best_probs[i, 0] = A[s_idx, i] * B[i, vocab[corpus[0]]]
+
+    return best_probs, best_paths
 
 def viterbi_forward(A, B, c_corpus, best_probs, best_paths, vocab):
     num_tags = best_probs.shape[0]
