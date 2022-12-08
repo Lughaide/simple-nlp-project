@@ -32,7 +32,7 @@ true_set = create_sentences(test_set)
 
 num_corr = 0
 total = 0
-
+comparison = False
 for pred_batch, true_batch in zip(pred_set, true_set):
     input_data = " ".join(pred_batch)
     input_data = input_data.replace("_", " ")
@@ -42,13 +42,15 @@ for pred_batch, true_batch in zip(pred_set, true_set):
     pred_pos = []
     true_pos = []
     for word in sent:
-        print(f"{word['wordForm']} {word['posTag'][0]}", end=" ")
+        if comparison: print(f"{word['wordForm']} {word['posTag'][0]}", end=" ")
         pred_pos.append(word['posTag'][0])
-    print()
+    if comparison: print()
+
     for word in true_batch:
-        print(word.strip("\n"), end=" ")
+        if comparison: print(word.strip("\n"), end=" ")
         true_pos.append(word.split()[-1])
-    print()
+    if comparison: print()
+    
     x, y = compare_list(pred_pos, true_pos)
     num_corr += x
     total += y
