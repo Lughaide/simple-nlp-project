@@ -50,8 +50,8 @@ for pred_batch, true_batch in zip(pred_set, true_set):
         if comparison: print(word.strip("\n"), end=" ")
         true_pos.append(word.split()[-1])
     if comparison: print()
-    
+
     x, y = compare_list(pred_pos, true_pos)
     num_corr += x
     total += y
-print(f"VNCoreNLP Accuracy: {(num_corr/total)*100:.04f}%")
+print(f"VNCoreNLP Accuracy: {num_corr}/{total} = {(num_corr/total)*100:.04f}%")
