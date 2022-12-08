@@ -26,8 +26,8 @@ def predict_highest_pos(predict_set, true_set, emission_set, tag_set):
             
             if pos_final == word_true.split()[-1]:
                 num_correct += 1
-        total += 1
-
+            total += 1
+    
     accuracy = num_correct / total
     return accuracy
 
@@ -53,8 +53,10 @@ if __name__ == "__main__":
     for count, word in enumerate(vocab_list):
         vocab_list[count] = word.split("\n")[0]
 
-    print(f"> Number of words in train set: {len(train_set)}")
-    print(f"> Number of words in test set: {len(test_set)}")
+    train_count = remove_val_from_list(train_set, '\n')
+    test_count = remove_val_from_list(test_set, '\n')
+    print(f"> Number of words in train set: {len(train_count)}")
+    print(f"> Number of words in test set: {len(test_count)}")
     print(f"> Vocabulary: {len(vocab_list)}")
     
     vocab = make_vocab(vocab_list)
@@ -110,4 +112,4 @@ if __name__ == "__main__":
         x, y = compute_accuracy(pred, true_batch)
         num_corr += x
         total += y
-    print(f"HMM Accuracy: {(num_corr/total)*100:.04f}%")
+    print(f"HMM Accuracy: {num_corr}/{total} = {(num_corr/total)*100:.04f}%")
