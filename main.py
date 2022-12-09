@@ -91,13 +91,16 @@ if __name__ == "__main__":
     for pred_batch, true_batch in zip(pred_set, true_set):
         best_probs, best_paths = initialize(states, tag_counts, A, B, pred_batch, vocab)
 
-        best_subs_1 = pd.DataFrame(best_probs, index=states[1:], columns=pred_batch)
-        best_subs_2 = pd.DataFrame(best_paths, index=states[1:], columns=pred_batch)
 
         best_probs, best_paths = viterbi_forward(A, B, pred_batch, best_probs, best_paths, vocab)
 
         pred = viterbi_backward(best_probs, best_paths, states[1:])
             
+        best_subs_1 = pd.DataFrame(best_probs, index=states[1:], columns=pred_batch)
+        best_subs_2 = pd.DataFrame(best_paths, index=states[1:], columns=pred_batch)
+
+        print(best_subs_1)
+
         if comparison:
             print("Pred result:", end=" ")
             for pos, word in zip(pred, pred_batch):

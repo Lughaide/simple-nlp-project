@@ -32,7 +32,7 @@ true_set = create_sentences(test_set)
 
 num_corr = 0
 total = 0
-comparison = False
+comparison = True
 for pred_batch, true_batch in zip(pred_set, true_set):
     input_data = " ".join(pred_batch)
     input_data = input_data.replace("_", " ")
